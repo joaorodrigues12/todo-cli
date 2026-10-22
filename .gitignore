@@ -1,0 +1,16 @@
+# Artefatos gerados pelo Maven
+target/
+
+# Configurações locais de IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos locais da aplicação e dados pessoais
+.todo-cli/
+tasks.json
+
+# Arquivos temporários e do sistema
+*.tmp
+.DS_Store
+Thumbs.db
